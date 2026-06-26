@@ -7,6 +7,5 @@ This displays the current stats of your computer such as cpu usage, cpu temp, an
 
 | Name        | Purpose                              | Quantity | Total Cost (USD) | Link                                      | Distributor   |
 |-------------|--------------------------------------|---------:|-----------------:|-------------------------------------------|--------------|
-| Case        | To hold everything together          | 1        | 10.00            | N/A                                       | Print Legion |
-| RGB Display | Display the stats from the computer  | 1        | 19.95            | https://www.adafruit.com/product/5827     | Adafruit     |
+| RGB Display | Display the stats from the computer  | 1        | 8.43            | https://www.adafruit.com/product/5827     | Adafruit     |
 | Arduino     | The brains of the device             | 1        | 19.95            | https://www.adafruit.com/product/5800     | Adafruit     |
