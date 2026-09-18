@@ -20,4 +20,4 @@ This displays the current stats of your computer such as cpu usage, cpu temp, an
 |Total| All the Costs | | $59.34 | | |
 
 Note: The display will be connected to the qualia board via a dedicated display connector directly to the display, no jumper cables will be used, also, I do not have a hackatime project for this
-I apologize for the earlier confusion about displayport, I do not intend to use any kind of displayport connector, when i said display port, I was referring to the gpio connector on the qualia that fits the wires built into the screen, I did not mean an actual displayport, sorry for the confusion.
+I apologize for the earlier confusion about displayport, I do not intend to use any kind of displayport connector, when i said display port, I was referring to the gpio connector on the qualia that fits the wires built into the screen, I did not mean an actual displayport, sorry for the confusion. Please be nice reviewers :)
