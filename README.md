@@ -16,7 +16,7 @@ This displays the current stats of your computer such as cpu usage, cpu temp, an
 |Stemma QT Cable| To connect the human presence sensor to the qualia| 1 | $2.73 | https://www.adafruit.com/product/4210 | DigiKey |
 |Gravity Human Presence Sensor| Detects whether a human is present | 1 | $12.90 | https://www.dfrobot.com/product-2795.html?srsltid=AfmBOopSlL-JtcJRfSKpnUiV8wRAijaZgFtMRj8LqAYcMTcZZ4owJtxxHEE | DigiKey|
 |Aliexpress shipping | To get the screen | 1 | $6.84 | | |
-|Digikey Shipping | To get the qualia and Sensor as well as screws | 1 | $8.49 | | |
+|Digikey Shipping | To get the qualia and Sensor as well as screws packaged up in shipping materials and then put onto a truck and driven to a distribution warehouse, moved onto a delivery vehicle and then brought to my house | 1 | $8.49 | | |
 |Total| All the Costs | | $59.34 | | |
 
 Note: The display will be connected to the qualia board via a dedicated display connector directly to the display, no jumper cables will be used, also, I do not have a hackatime project for this
