@@ -1,8 +1,7 @@
 # Stat Display
 This displays the current stats of your computer such as cpu usage, cpu temp, and gpu usage, I made it becuase I've always wanted a stat monitor, I used fusion for the cad design and I wrote the code in vs code utilizing lvgl libraries to make the ui look good. This is assembled by placing the screen in its place, placing the arduino in its place, plugging the display into the arduino, putting the back plate on, and them screwing it in, done! For firmware, just flash the arduino side to the qualia and run the computer-side code.
 <img width="1161" height="955" alt="Screenshot 2026-04-30 172103" src="https://github.com/user-attachments/assets/936c8275-3fae-4bb3-b6c8-dfa7287d33ce" />
-<img width="1134" height="826" alt="image" src="https://github.com/user-attachments/assets/9157361a-dd00-414d-baf9-503a1aaf94c4" />
-
+<img width="1349" height="923" alt="image" src="https://github.com/user-attachments/assets/3313ffa4-7c79-48d6-81ab-425d96c5a900" />
 <img width="511" height="538" alt="Screenshot 2026-04-27 185149" src="https://github.com/user-attachments/assets/9f2073cd-51ac-4729-beb8-8f21c66e8ecc" />
 <img width="523" height="652" alt="image" src="https://github.com/user-attachments/assets/09c14b52-2de4-4c0b-8105-48adffce0baf" />
 
