@@ -3,7 +3,8 @@ This displays the current stats of your computer such as cpu usage, cpu temp, an
 <img width="1161" height="955" alt="Screenshot 2026-04-30 172103" src="https://github.com/user-attachments/assets/936c8275-3fae-4bb3-b6c8-dfa7287d33ce" />
 <img width="1349" height="923" alt="image" src="https://github.com/user-attachments/assets/3313ffa4-7c79-48d6-81ab-425d96c5a900" />
 <img width="511" height="538" alt="Screenshot 2026-04-27 185149" src="https://github.com/user-attachments/assets/9f2073cd-51ac-4729-beb8-8f21c66e8ecc" />
-<img width="523" height="652" alt="image" src="https://github.com/user-attachments/assets/09c14b52-2de4-4c0b-8105-48adffce0baf" />
+<img width="732" height="708" alt="image" src="https://github.com/user-attachments/assets/5a397192-a70f-423b-b12f-7298ae1907ed" />
+
 
 
 ## Bill of Materials (BOM)
